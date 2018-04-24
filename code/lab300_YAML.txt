@@ -1,0 +1,12 @@
+ # printBalance:
+ #   component: "System.Output"
+ #   properties:
+ #     text: "${accountType.value}의 잔고는 $500 입니다."
+ #   transitions:
+ #     return: "printBalance"
+  printBalance:
+    component: "BalanceRetrieval"
+    properties:
+      accountType: "${accountType.value}"
+    transitions:
+      return: "printBalance" 

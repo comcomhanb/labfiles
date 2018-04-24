@@ -1,0 +1,17 @@
+query,topIntent
+"통장 잔액",Balances
+"제가 작년에 얼마 저금 했죠?",Balances
+"계좌 잔고를 보여줘",Balances
+"계좌에 얼마 있죠?",Balances
+"제 통장의 잔액은 얼마가 있나요?",Balances
+"잔액 얼마",Balances
+"현재 저의 잔고를 알려주세요",Balances
+"잔고가 얼마인가요?",Balances
+"통장에 얼마 있죠?",Balances
+"아빠 계좌에 10달러 보내",Send Money
+"매달 엄마에게 500달러 보내줘",Send Money
+Lauren에게 사진값 25달러 보내,Send Money
+20달러를 송금해줘,Send Money
+"매달 1일에 Cleo한테 월세를 내",Send Money
+"점심값 20달러 보내줘",Send Money
+"아빠에게 200달러 계좌이체 해주세요",Send Money
